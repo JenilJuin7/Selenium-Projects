@@ -1,2 +1,2 @@
 # Selenium-Projects
-Hi Everyone this are my Selenium Java Projects based on QEA 
+Hi Everyone these are my Selenium Java Projects based on QEA 
